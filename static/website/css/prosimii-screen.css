@@ -342,7 +342,7 @@ dd {
 /* ##### Footer ##### */
 
 #footer {
-  color: rgb(51,51,102);
+  color: white;
   background-color: #333333;
   font-size: 87%;
   text-align: center;
@@ -353,7 +353,7 @@ dd {
 }
 
 #footer a {
-  color: rgb(0,68,204);
+  color: white;
   background-color: #333333;
   text-decoration: underline;
 }
